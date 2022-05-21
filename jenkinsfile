@@ -1,4 +1,3 @@
-Parameters
 pipeline{
     //agent any
     agent {label 'worker'}
